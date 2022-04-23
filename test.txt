@@ -1,3 +1,5 @@
 Tutaj przykładowy tekst hehe
 Edytowany plik
 Jeszcze raz
+
+Tutaj edytowany na nowym branchu
