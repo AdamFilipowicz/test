@@ -1,3 +1,5 @@
 Tutaj przykładowy tekst hehe
 Edytowany plik
 Jeszcze raz
+
+A ten edytowany w branchu master
