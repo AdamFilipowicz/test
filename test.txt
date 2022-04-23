@@ -3,3 +3,4 @@ Edytowany plik
 Jeszcze raz
 
 A ten edytowany w branchu master
+Tutaj edytowany na nowym branchu
